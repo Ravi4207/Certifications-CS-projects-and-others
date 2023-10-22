@@ -1,0 +1,934 @@
+Product Release,Support Status,General Availability,End of General Support,End of Technical Guidance,End of Availability,Category,Vendor
+AirWatch Console 9.1,Unsupported,2017-04-26,2018-10-26,,,,Vmware
+AirWatch Console 9.2,Unsupported,2017-09-21,2019-03-21,,,,Vmware
+AirWatch Console 9.3,Unsupported,2018-03-14,2019-09-14,,,,Vmware
+AirWatch Video for Android 1.0,Unsupported,2015-05-15,2018-03-06,,2017-03-06,,Vmware
+AirWatch Video for iOS 1.0,Unsupported,2015-03-03,2018-03-06,,2017-03-06,,Vmware
+App Volumes 2.10,Unsupported,2015-11-24,2017-11-24,2018-11-24,,,Vmware
+App Volumes 2.11,Unsupported,2016-06-16,2018-06-16,2019-06-16,,,Vmware
+App Volumes 2.12,Unsupported,2016-12-08,2018-12-06,2019-12-06,,,Vmware
+App Volumes 2.13,Unsupported,2017-10-19,2019-10-19,2020-10-19,,,Vmware
+App Volumes 2.14 (ESB),Unsupported,2018-05-28,2020-05-28,2021-05-28,,,Vmware
+App Volumes 2.15,Unsupported,2018-12-13,2020-12-13,2021-12-13,,,Vmware
+App Volumes 2.16,Unsupported,2019-03-14,2021-03-14,2022-03-14,,,Vmware
+App Volumes 2.17,Unsupported,2019-07-02,2021-07-02,2022-07-02,,,Vmware
+App Volumes 2.18 (ESB),Supported,2019-09-16,2022-09-16,2023-09-16,,,Vmware
+App Volumes 2.19,Supported,2021-12-21,2024-03-09,2025-03-09,,,Vmware
+"App Volumes 2.5, 2.6, 2.7",Unsupported,2014-12-09,2016-12-09,2017-12-09,,,Vmware
+App Volumes 2.9,Unsupported,2015-06-23,2017-06-23,2018-06-03,,,Vmware
+App Volumes 2206,Supported,2022-07-19,2024-07-19,2025-07-19,,,Vmware
+App Volumes 2209,Supported,2022-10-20,2024-10-20,2025-10-20,,,Vmware
+App Volumes 2212,Supported,2023-01-12,2025-01-12,2026-01-12,,,Vmware
+App Volumes 3.0,Unsupported,2016-03-22,2018-03-22,2019-03-22,,,Vmware
+App Volumes 4,Unsupported,2020-01-14,2022-01-14,2023-01-14,,,Vmware
+App Volumes 4 2006,Supported,2020-07-09,2022-07-09,2023-07-09,,,Vmware
+App Volumes 4 2009,Supported,2020-10-15,2022-10-15,2023-10-15,,,Vmware
+App Volumes 4 2012,Supported,2021-01-07,2023-01-07,2024-01-07,,,Vmware
+App Volumes 4 2103,Supported,2021-03-23,2023-03-23,2024-03-23,,,Vmware
+App Volumes 4 2111,Supported,2021-11-30,2023-11-30,2024-11-30,,,Vmware
+App Volumes 4 2203,Supported,2022-04-05,2024-04-05,2025-04-05,,,Vmware
+AppDefense Plugin 2.0 for Platinum Edition,Unsupported,2018-10-31,2019-10-31,,,,Vmware
+AppDefense Plugin 2.1 for Platinum Edition,Unsupported,2019-02-19,2020-02-19,,,,Vmware
+AppDefense Plugin 2.2 for Platinum Edition,Unsupported,2019-05-21,2020-05-21,,,,Vmware
+AppDefense Plugin 2.3 for Platinum Edition,Unsupported,2019-10-17,2020-10-17,,,,Vmware
+Avi Kubernetes Operator 1.7.x,Supported,2022-05-25,2023-06-30,,,,Vmware
+Avi Kubernetes Operator 1.8.x,Supported,2022-10-07,2023-10-31,,,,Vmware
+Avi Kubernetes Operator 1.9.x,Supported,2023-02-07,2024-02-29,,,,Vmware
+Avi Multi Kubernetes Operator 1.7.x,Supported,2022-05-25,2023-06-30,,,,Vmware
+Avi Multi Kubernetes Operator 1.8.x,Supported,2022-10-12,2023-10-31,,,,Vmware
+Avi Multi Kubernetes Operator 1.9.x,Supported,2023-02-08,2024-02-29,,,,Vmware
+Bitfusion 2.0,Unsupported,2020-07-09,2022-07-09,,,,Vmware
+Bitfusion 2.5,Unsupported,2020-11-05,2022-11-05,,,,Vmware
+Bitfusion 3.0,Unsupported,2021-03-11,2023-03-11,,,,Vmware
+Bitfusion 3.5,Supported,2021-05-11,2023-05-11,,,,Vmware
+Bitfusion 4.0,Supported,2021-08-17,2023-08-17,,,,Vmware
+Bitfusion 4.5,Supported,2021-11-23,2025-05-05,,2023-05-05,,Vmware
+Cisco Nexus 1000V (resell),Unsupported,2009-06-12,2018-09-19,,2015-02-02,,Vmware
+Cloud Director 10.0,Unsupported,2019-09-19,2021-09-19,,,,Vmware
+Cloud Director 10.1,Unsupported,2020-04-09,2022-04-09,,,,Vmware
+Cloud Director 10.2,Unsupported,2020-10-15,2022-10-15,,,,Vmware
+Cloud Director 10.3,Supported,2021-07-15,2023-07-15,,,,Vmware
+Cloud Director 10.4,Supported,2022-07-14,2024-07-14,,,,Vmware
+Cloud Director App Launchpad 1.0,Unsupported,2020-04-09,2022-04-09,,,,Vmware
+Cloud Director App Launchpad 2.0,Unsupported,2020-10-15,2022-10-15,,,,Vmware
+Cloud Director App Launchpad 2.1,Supported,2021-10-28,2023-10-28,,,,Vmware
+Cloud Director Availability 4.0,Unsupported,2020-06-02,2022-06-02,,,,Vmware
+Cloud Director Availability 4.1,Unsupported,2020-11-26,2022-06-02,,,,Vmware
+Cloud Director Availability 4.2,Supported,2021-06-10,2023-06-10,,,,Vmware
+Cloud Director Availability 4.3,Supported,2021-11-23,2023-06-10,,,,Vmware
+Cloud Director Availability 4.4,Supported,2022-06-23,2024-06-23,,,,Vmware
+Cloud Director Availability 4.5,Supported,2022-11-24,2024-06-23,,2024-06-23,,Vmware
+Cloud Director Object Storage Extension 1.5,Unsupported,2020-04-16,2022-04-16,,,,Vmware
+Cloud Director Object Storage Extension 2.0,Unsupported,2020-10-15,2022-10-15,,,,Vmware
+Cloud Director Object Storage Extension 2.1,Supported,2021-09-23,2023-09-23,,,,Vmware
+Cloud Director extension for VMware Data Solutions 1.0,Supported,2022-11-03,2024-11-03,,,,Vmware
+Cloud Director extension for VMware Data Solutions 1.1,Supported,2023-01-31,2025-01-31,,,,Vmware
+Cloud Foundation 2.3,Unsupported,2018-08-15,2020-11-15,,,,Vmware
+Cloud Foundation 3.10,Unsupported,2020-05-26,2022-09-01,,,,Vmware
+Cloud Foundation 3.11,Supported,2022-02-14,2023-04-30,,,,Vmware
+Cloud Foundation 3.8,Unsupported,2019-07-18,2020-07-18,,,,Vmware
+Cloud Foundation 3.9,Unsupported,2019-10-24,2020-10-24,,,,Vmware
+Cloud Foundation 4.0,Unsupported,2020-04-14,2021-08-24,,,,Vmware
+Cloud Foundation 4.1,Unsupported,2020-10-06,2022-02-10,,,,Vmware
+Cloud Foundation 4.2,Unsupported,2021-02-09,2022-10-11,,,,Vmware
+Cloud Foundation 4.3,Supported,2021-08-24,2023-10-31,,,,Vmware
+Cloud Foundation 4.4,Supported,2022-02-10,2023-09-16,,,,Vmware
+Cloud Foundation 4.5,Supported,2022-10-11,2024-04-07,,,,Vmware
+Cloud Provider Lifecycle Manager 1.1,Supported,2021-05-13,2023-05-13,,,,Vmware
+Cloud Provider Lifecycle Manager 1.2,Supported,2021-10-28,2023-10-28,,,,Vmware
+Cloud Provider Lifecycle Manager 1.3,Supported,2022-05-31,2024-05-31,,,,Vmware
+Cloud Provider Lifecycle Manager 1.4,Supported,2022-10-27,2024-10-27,,,,Vmware
+Cloud Provider Pod 1.0,Unsupported,2018-10-16,2020-10-16,,2020-09-30,,Vmware
+Cloud Provider Pod 1.5,Unsupported,2019-07-13,2020-12-31,,2020-09-30,,Vmware
+Container Service Extension 3.1,Supported,2021-07-15,2023-07-15,,,,Vmware
+Container Service Extension 4.0,Supported,2022-11-17,2024-11-17,,,,Vmware
+Continuent for Clustering 4.0,Unsupported,2015-04-17,2017-04-17,,2016-05-04,,Vmware
+Continuent for Replication 4.0,Unsupported,2015-04-17,2017-04-17,,2016-05-04,,Vmware
+Data Recovery 1.0,Unsupported,2009-05-21,2011-05-21,,,,Vmware
+Data Recovery 2.0,Unsupported,2011-08-24,2016-08-24,,,,Vmware
+Dynamic Environment Manager 10 2006,Supported,2020-08-11,2022-08-11,2023-08-11,,,Vmware
+Dynamic Environment Manager 10 2009,Supported,2020-10-15,2022-10-15,2023-10-15,,,Vmware
+Dynamic Environment Manager 10 2103,Supported,2021-03-23,2023-03-23,2024-03-23,,,Vmware
+Dynamic Environment Manager 10 2106,Supported,2021-07-15,2023-07-15,2024-07-15,,,Vmware
+Dynamic Environment Manager 10 2111,Supported,2021-11-30,2023-11-30,2024-11-30,,,Vmware
+Dynamic Environment Manager 10 2203,Supported,2022-04-05,2024-04-05,2025-04-05,,,Vmware
+Dynamic Environment Manager 2206,Supported,2022-07-19,2024-07-19,2025-07-19,,,Vmware
+Dynamic Environment Manager 2209,Supported,2022-10-20,2024-10-20,2025-10-20,,,Vmware
+Dynamic Environment Manager 2212,Supported,2023-01-12,2025-01-12,2026-01-12,,,Vmware
+Dynamic Environment Manager 9.10,Unsupported,2019-12-12,2021-12-12,2022-12-12,,,Vmware
+Dynamic Environment Manager 9.11,Supported,2020-03-17,2022-03-17,2023-03-17,,,Vmware
+Dynamic Environment Manager 9.9,Unsupported,2019-09-17,2022-03-17,2022-09-17,,,Vmware
+ESX 4.x,Unsupported,2009-05-21,2014-05-21,2016-05-21,2013-08-15,,Vmware
+ESXi 4.x,Unsupported,2009-05-21,2014-05-21,2016-05-21,2013-08-15,,Vmware
+ESXi 5.0 and 5.1,Unsupported,2011-08-24,2016-08-24,2018-08-24,2017-12-08,,Vmware
+ESXi 5.5,Unsupported,2013-09-19,2018-09-19,2020-09-19,2017-12-08,,Vmware
+ESXi 6.0,Unsupported,2015-03-12,2020-03-12,2022-03-12,2020-05-15,,Vmware
+ESXi 6.5,Supported,2016-11-15,2022-10-15,2023-11-15,2020-05-15,,Vmware
+ESXi 6.7,Supported,2018-04-17,2022-10-15,2023-11-15,2020-05-15,,Vmware
+ESXi 7.0,Supported,2020-04-02,2025-04-02,2027-04-02,2022-10-11,,Vmware
+ESXi 8.0,Supported,2022-10-11,2027-10-11,2029-10-11,,,Vmware
+EVO:RAIL 1.0,Unsupported,2014-09-09,2016-09-09,,,,Vmware
+EVO:RAIL 1.1,Unsupported,2015-01-23,2016-09-09,,,,Vmware
+EVO:RAIL 1.2,Unsupported,2015-07-02,2016-12-10,,,,Vmware
+EVO:RAIL 2.0,Unsupported,2015-12-10,2017-12-10,,,,Vmware
+Enterprise PKS 1.0,Unsupported,2018-02-08,2018-11-30,,,,Vmware
+Enterprise PKS 1.1,Unsupported,2018-06-28,2019-03-31,,,,Vmware
+Enterprise PKS 1.3,Unsupported,2019-01-16,2019-11-30,,,,Vmware
+Enterprise PKS 1.4,Unsupported,2019-04-25,2020-01-31,,,,Vmware
+Enterprise PKS 1.5,Unsupported,2019-08-20,2020-06-30,,,,Vmware
+Enterprise PKS 1.6,Unsupported,2019-11-14,2020-08-30,,,,Vmware
+Enterprise PKS 1.7,Unsupported,2020-04-16,2021-01-16,,,,Vmware
+Essential PKS 1.16,Unsupported,2020-01-27,2020-10-31,,,,Vmware
+Essentials PKS 1.13.4,Unsupported,2019-04-02,2020-04-01,,,,Vmware
+Essentials PKS 1.14,Unsupported,2019-12-18,2020-02-20,,,,Vmware
+Essentials PKS 1.15,Unsupported,2020-01-27,2020-04-30,,,,Vmware
+Essentials PKS 1.16,Unsupported,2019-10-30,2020-10-31,,,,Vmware
+Fusion 1.x,Unsupported,2007-08-06,2010-03-12,,2008-09-12,,Vmware
+Fusion 10,Unsupported,2017-09-26,2019-03-26,,,,Vmware
+Fusion 11,Unsupported,2018-09-24,2020-12-19,,,,Vmware
+Fusion 12,Supported,2020-09-14,2023-03-31,,,,Vmware
+Fusion 13.0.0,Supported,2020-09-14,2024-02-17,,,,Vmware
+Fusion 2.x,Unsupported,2008-09-12,2011-10-01,,2009-10-27,,Vmware
+Fusion 3.x,Unsupported,2009-10-27,2011-10-27,,2011-09-14,,Vmware
+Fusion 4.x,Unsupported,2011-09-14,2013-09-14,,2012-08-23,,Vmware
+Fusion 5.x,Unsupported,2012-08-23,2014-08-23,,2013-09-04,,Vmware
+Fusion 6.x,Unsupported,2013-09-04,2015-09-04,,2014-09-03,,Vmware
+Fusion 7.x,Unsupported,2014-09-03,2016-03-03,,2015-08-25,,Vmware
+Fusion 8.x,Unsupported,2015-08-25,2018-02-25,,2017-09-26,,Vmware
+Gemstone/S 64-bit 2.4,Unsupported,2009-09-30,2012-09-30,2013-09-30,,,Vmware
+HCX 3.5.1,Unsupported,2018-06-14,2019-10-02,,,,Vmware
+HCX 3.5.2,Unsupported,2019-08-08,2020-06-26,,,,Vmware
+HCX 3.5.3 (R147),Unsupported,2020-04-02,2021-10-30,,,,Vmware
+HCX 4.0.0,Unsupported,2021-02-23,2022-02-23,,,,Vmware
+HCX 4.1.0,Unsupported,2021-06-15,2022-06-15,,,,Vmware
+HCX 4.2.0,Unsupported,2021-08-05,2022-08-05,,,,Vmware
+HCX 4.3,Unsupported,2021-12-15,2022-12-15,,,,Vmware
+HCX 4.3.9,Supported,2022-08-23,2023-08-22,,,,Vmware
+HCX 4.4,Supported,2022-07-15,2023-07-14,,,,Vmware
+HCX 4.5,Supported,2022-10-13,2023-10-13,,,,Vmware
+HCX 4.5.1,Supported,2022-11-22,2023-11-21,,,,Vmware
+HCX 4.6,Supported,2023-02-17,2024-02-17,,,,Vmware
+Horizon 2206,Supported,2022-07-19,2025-07-19,2026-07-19,,,Vmware
+Horizon 2209,Supported,2022-10-20,2025-10-20,2026-10-20,,,Vmware
+Horizon 2212,Supported,2023-01-12,2026-01-12,2027-01-12,,,Vmware
+Horizon 6 for Linux 6.1.1,Unsupported,2015-06-04,2019-06-09,2021-06-09,,,Vmware
+"Horizon 7.0 – 7.9, 7.11, 7.12",Supported,2016-03-22,2021-03-22,2023-03-22,,,Vmware
+Horizon 7.10 ESB,Supported,2019-09-17,2022-03-17,2024-03-17,,,Vmware
+Horizon 7.13,Supported,2020-10-15,2023-04-30,2025-04-30,,,Vmware
+Horizon 7.5 ESB,Supported,2018-05-29,2020-11-30,2023-03-22,,,Vmware
+Horizon 8 2006,Supported,2020-08-11,2025-08-11,2027-08-11,,,Vmware
+Horizon 8 2012,Supported,2021-01-07,2024-01-07,2025-01-07,,,Vmware
+Horizon 8 2103,Supported,2021-03-23,2024-03-23,2025-03-23,,,Vmware
+Horizon 8 2106,Supported,2021-07-15,2024-07-15,2025-07-15,,,Vmware
+Horizon 8 2111,Supported,2021-11-30,2024-11-30,2025-11-30,,,Vmware
+Horizon 8 2203,Supported,2022-04-05,2025-04-05,2026-04-05,,,Vmware
+Horizon Application Manager (SaaS),Unsupported,2011-05-17,2014-03-31,,2013-03-31,,Vmware
+Horizon Application Manager 1.5,Unsupported,2012-06-13,2015-06-13,2017-06-13,,,Vmware
+Horizon DaaS Bundle 5.4,Unsupported,2014-01-01,2016-01-01,2017-01-01,,,Vmware
+Horizon DaaS Bundle and Horizon DaaS On Prem Platform 6.0,Unsupported,2014-03-18,2016-03-18,2017-03-18,,,Vmware
+Horizon DaaS Bundle and Horizon DaaS On Prem Platform 6.1,Unsupported,2014-09-09,2018-09-18,2019-09-18,,,Vmware
+Horizon DaaS On Prem Platform 7.0,Unsupported,2017-03-02,2019-03-02,2020-03-02,,,Vmware
+Horizon DaaS On Prem Platform 8.0,Unsupported,2018-04-19,2021-04-19,2022-04-19,,,Vmware
+Horizon DaaS On Prem Platform 9.0,Supported,2020-05-07,2022-05-07,2023-05-07,,,Vmware
+Horizon DaaS On Prem Platform 9.1,Supported,2021-01-07,2024-01-07,2025-01-07,,,Vmware
+Horizon DaaS on Prem Platform 5.4,Unsupported,2014-03-10,2016-09-01,2018-09-01,,,Vmware
+Horizon FLEX Policy Server 1.x,Unsupported,2014-12-02,2019-06-30,2020-06-30,,,Vmware
+Horizon Mobile 1.2,Unsupported,2012-11-06,2015-11-06,2017-11-06,2013-03-31,,Vmware
+Horizon View 5.x,Unsupported,2011-09-14,2016-09-14,2018-09-14,2013-09-30,,Vmware
+Horizon View 6.x,Unsupported,2014-06-19,2019-06-19,2021-06-19,,,Vmware
+Horizon Workspace 1.x,Unsupported,2013-03-04,2015-03-04,2016-03-04,,,Vmware
+IT Business Management Suite 7.1,Unsupported,2012-04-05,2013-11-17,,,,Vmware
+IT Business Management Suite 7.5,Unsupported,2013-02-21,2014-12-10,,,,Vmware
+IT Business Management Suite Advanced and Enterprise 8.1,Unsupported,2014-09-09,2016-12-31,,,,Vmware
+IT Financial Manager 7.1,Unsupported,2011-11-21,2013-11-17,,,,Vmware
+IT Financial Manager 7.5,Unsupported,2012-11-19,2014-11-17,,,,Vmware
+Identity Manager 19.03,Unsupported,2019-04-16,2020-10-16,,,,Vmware
+"Identity Manager 2.4, 2.6, 2.7, 2.8",Unsupported,2015-09-08,2017-09-09,2019-09-09,,,Vmware
+Identity Manager 2.9,Unsupported,2017-04-26,2018-10-26,2020-10-26,,,Vmware
+"Identity Manager 3.0, 3.1",Unsupported,2017-09-21,2019-03-21,,,,Vmware
+Identity Manager 3.2,Unsupported,2018-03-15,2019-09-14,,,,Vmware
+Identity Manager 3.3,Unsupported,2018-09-18,2020-05-02,,,,Vmware
+Identity Manager 3.3.1,Unsupported,2019-10-17,2021-04-17,,,,Vmware
+Identity Manager 3.3.2,Unsupported,2020-04-14,2021-10-17,,,,Vmware
+Identity Manager 3.3.3,Unsupported,2020-11-12,2022-05-11,,,,Vmware
+Identity Manager 3.3.4,Unsupported,2021-02-04,2022-08-04,,,,Vmware
+Identity Manager 3.3.5,Unsupported,2021-05-20,2022-11-20,,,,Vmware
+Identity Manager 3.3.6,Supported,2022-01-18,2023-07-18,,,,Vmware
+Identity Manager 3.3.7,Supported,2023-01-26,2023-11-01,,,,Vmware
+Identity Manager Connector 19.03.0.1,Unsupported,2020-11-03,2022-08-31,,,,Vmware
+Integrated OpenStack 1.0,Unsupported,2015-03-12,2017-03-12,,,,Vmware
+Integrated OpenStack 2.0,Unsupported,2015-09-10,2017-09-10,,,,Vmware
+Integrated OpenStack 2.5,Unsupported,2016-06-03,2017-09-10,,,,Vmware
+Integrated OpenStack 3.0,Unsupported,2016-09-15,2018-09-15,,,,Vmware
+Integrated OpenStack 3.1,Unsupported,2017-02-21,2018-09-19,,,,Vmware
+Integrated OpenStack 4.0,Unsupported,2017-09-19,2019-09-19,,,,Vmware
+Integrated OpenStack 4.1,Unsupported,2018-01-18,2019-09-19,,,,Vmware
+Integrated OpenStack 5.0,Unsupported,2018-07-03,2020-07-03,,,,Vmware
+Integrated OpenStack 5.1,Unsupported,2018-11-13,2020-09-03,,,,Vmware
+Integrated OpenStack 6.0,Unsupported,2019-09-03,2021-09-03,,,,Vmware
+Integrated OpenStack 7.0,Unsupported,2020-06-04,2022-06-04,,,,Vmware
+Integrated OpenStack 7.1,Unsupported,2021-05-13,2022-06-04,,,,Vmware
+Integrated OpenStack 7.2,Supported,2021-12-16,2023-06-04,,,,Vmware
+Mirage 4.x,Unsupported,2013-03-04,2016-03-04,2018-03-04,,,Vmware
+Mirage 5.0 to 5.7,Unsupported,2014-06-24,2017-06-24,2019-06-24,2018-05-07,,Vmware
+Mirage 5.8,Unsupported,2016-06-14,2018-06-14,2019-06-24,2018-05-07,,Vmware
+Mirage 5.9,Unsupported,2017-03-23,2019-06-30,2020-06-30,2018-05-07,,Vmware
+NSX 4.x,Supported,2022-08-02,2026-08-02,2027-08-02,,,Vmware
+NSX Advanced Load Balancer 18.2,Unsupported,2019-11-04,2021-08-31,2022-01-31,,,Vmware
+NSX Advanced Load Balancer 20.1.x,Supported,2020-07-30,2023-07-31,,,,Vmware
+NSX Advanced Load Balancer 21.1.x,Supported,2021-08-12,2023-08-31,2024-02-28,,,Vmware
+NSX Advanced Load Balancer 22.1.x,Supported,2022-07-15,2024-07-31,,,,Vmware
+NSX Data Center for vSphere 6.4,Unsupported,2018-01-16,2022-01-16,2023-01-16,,,Vmware
+NSX Detonator 9,Supported,2019-10-24,2024-12-31,2025-12-31,,,Vmware
+NSX Network Detection and Response 9,Supported,2019-10-24,2024-12-31,2025-12-31,,,Vmware
+NSX for Multi-Hypervisor 4.1,Unsupported,2013-10-15,2015-10-15,,,,Vmware
+NSX for Multi-Hypervisor 4.2,Unsupported,2014-08-19,2016-10-15,,,,Vmware
+NSX for vSphere 6.0,Unsupported,2013-10-15,2015-10-15,,,,Vmware
+NSX for vSphere 6.1,Unsupported,2014-09-11,2017-01-15,,,,Vmware
+NSX for vSphere 6.2,Unsupported,2015-08-20,2018-08-20,2019-08-20,,,Vmware
+NSX for vSphere 6.3,Unsupported,2017-02-02,2020-02-02,2021-02-02,,,Vmware
+NSX-T 1.0,Unsupported,2016-05-03,2018-05-03,,,,Vmware
+NSX-T 1.1,Unsupported,2017-02-02,2018-09-07,,,,Vmware
+NSX-T 2.1,Unsupported,2017-12-21,2019-09-07,,,,Vmware
+NSX-T Data Center 2.2,Unsupported,2018-06-05,2019-09-07,,,,Vmware
+NSX-T Data Center 2.3,Unsupported,2018-09-18,2020-03-18,,,,Vmware
+NSX-T Data Center 2.4,Unsupported,2019-02-28,2020-09-07,,,,Vmware
+NSX-T Data Center 2.5,Unsupported,2019-09-19,2021-09-19,2022-09-19,,,Vmware
+NSX-T Data Center 3.x,Supported,2020-04-07,2025-04-07,2026-04-07,,,Vmware
+Photon Platform 1.x,Unsupported,2017-03-02,2019-03-02,,2017-10-06,,Vmware
+Pulse IoT Center 1.x,Unsupported,2018-01-18,2020-01-18,,,,Vmware
+Pulse IoT Center 2.x,Unsupported,2019-09-05,2021-09-05,,,,Vmware
+SD-WAN 2.4 and 2.5,Unsupported,2018-02-22,2020-07-31,2020-10-31,,,Vmware
+SD-WAN 3.0 and 3.1,Unsupported,2017-08-28,2021-05-15,2021-08-15,,,Vmware
+SD-WAN 3.2 and 3.3,Unsupported,2018-04-09,2021-12-15,2022-03-15,,,Vmware
+SD-WAN 3.4 Edge,Supported,2020-02-25,2022-12-31,2023-03-31,,,Vmware
+"SD-WAN 3.4 Orchestrator, Controller and Gateway",Unsupported,2020-02-25,2022-03-30,2022-09-30,,,Vmware
+SD-WAN 4.0,Unsupported,2020-09-30,2022-09-30,2022-12-30,,,Vmware
+SD-WAN 4.2 Edge,Supported,2020-12-22,2023-06-30,2025-09-30,,,Vmware
+"SD-WAN 4.2 Orchestrator, Controller and Gateway",Supported,2020-12-22,2022-12-31,2023-03-30,,,Vmware
+SD-WAN 4.3 Edge,Supported,2021-06-03,2023-06-30,2025-09-30,,,Vmware
+"SD-WAN 4.3 Orchestrator, Controller and Gateway",Supported,2021-06-03,2023-06-30,2023-09-30,,,Vmware
+SD-WAN 4.5 Edge,Supported,2021-09-23,2025-09-30,2025-12-31,,,Vmware
+"SD-WAN 4.5 Orchestrator, Controller and Gateway",Supported,2021-09-22,2023-09-30,2023-12-31,,,Vmware
+SD-WAN 5.0 Edge,Supported,2022-02-27,2026-02-28,2027-02-28,,,Vmware
+"SD-WAN 5.0 Orchestrator, Controller and Gateway",Supported,2022-02-27,2025-02-28,2026-02-28,,,Vmware
+SD-WAN 5.1 Edge,Supported,2022-12-07,2026-02-28,2027-02-28,,,Vmware
+"SD-WAN 5.1 Orchestrator, Controller and Gateway",Supported,2022-12-08,2025-02-28,2026-02-28,,,Vmware
+"SDDC Manager 2.0, 2.1 and 2.2",Unsupported,2016-09-01,2018-09-01,,,,Vmware
+SDDC Manager 3.0,Unsupported,2018-09-20,2019-09-20,,,,Vmware
+SDDC Manager 3.10,Unsupported,2020-05-26,2022-09-01,,,,Vmware
+SDDC Manager 3.11,Supported,2022-02-14,2023-04-30,,,,Vmware
+SDDC Manager 3.5,Unsupported,2018-12-13,2019-12-13,,,,Vmware
+SDDC Manager 3.7,Unsupported,2019-03-19,2020-03-19,,,,Vmware
+Service Manager 8.x,Unsupported,2006-07-03,2011-07-03,2015-07-03,2012-03-01,,Vmware
+Service Manager 9.x,Unsupported,2010-03-08,2017-03-08,2019-03-08,2012-03-01,,Vmware
+Site Recovery Manager 5.0 and 5.1,Unsupported,2011-09-14,2016-08-24,2018-08-24,,,Vmware
+Site Recovery Manager 5.5 and 5.8,Unsupported,2013-09-19,2018-09-19,2020-09-19,,,Vmware
+Site Recovery Manager 6.0 and 6.1,Unsupported,2015-03-12,2020-03-12,2022-03-12,,,Vmware
+Site Recovery Manager 6.5,Supported,2016-11-15,2021-11-15,2023-11-15,,,Vmware
+Site Recovery Manager 8.1,Supported,2018-04-17,2021-11-15,2023-11-15,,,Vmware
+Site Recovery Manager 8.2,Supported,2019-05-09,2021-11-15,2023-11-15,,,Vmware
+Site Recovery Manager 8.3,Supported,2020-04-01,2023-04-01,2024-04-01,,,Vmware
+Site Recovery Manager 8.4,Supported,2021-03-09,2023-04-01,2024-04-01,,,Vmware
+Site Recovery Manager 8.5,Supported,2021-10-05,2023-10-01,2024-10-01,,,Vmware
+Site Recovery Manager 8.6,Supported,2022-10-11,2025-10-11,2026-10-11,,,Vmware
+Skyline Collector 2.3.0.0,Unsupported,2019-11-26,2020-11-26,,,,Vmware
+Skyline Collector 2.4.0.0,Unsupported,2020-05-19,2021-05-19,,,,Vmware
+Skyline Collector 2.5.0.0,Unsupported,2020-07-14,2021-07-14,,,,Vmware
+Skyline Collector 2.6,Unsupported,2020-10-15,2021-10-15,,,,Vmware
+Skyline Collector 2.7,Unsupported,2021-02-11,2022-02-11,,,,Vmware
+Skyline Collector 2.8.0.0,Unsupported,2021-07-30,2022-07-30,,,,Vmware
+Skyline Collector 3.0,Unsupported,2021-11-16,2022-11-16,,,,Vmware
+Skyline Collector 3.1,Supported,2022-02-10,2023-04-13,,,,Vmware
+Skyline Collector 3.2,Supported,2022-08-25,2023-08-25,,,,Vmware
+Skyline Collector 3.3,Supported,2023-02-16,2024-02-16,,,,Vmware
+Smart Assurance 10.0.x,Supported,2019-04-28,2023-12-30,,2022-06-30,,Vmware
+Smart Assurance 10.1.x,Supported,2019-09-03,2026-12-31,,2022-06-30,,Vmware
+Smart Assurance 9.5,Unsupported,2017-09-26,2020-12-20,,2020-09-03,,Vmware
+Smart Assurance 9.6,Unsupported,2019-01-21,2022-01-31,,2020-09-03,,Vmware
+Smart Experience 3.1,Unsupported,2017-04-24,2020-12-31,,2020-11-13,,Vmware
+Tanzu Application Service for VMs 3.0.0,Supported,2022-10-04,2023-10-31,,,,Vmware
+Tanzu Kubernetes Grid 1.0,Unsupported,2020-04-09,2021-03-31,,,,Vmware
+Tanzu Kubernetes Grid 1.1,Unsupported,2020-05-21,2021-08-31,,,,Vmware
+Tanzu Kubernetes Grid 1.2,Unsupported,2020-10-15,2022-01-31,,,,Vmware
+Tanzu Kubernetes Grid 1.3,Unsupported,2021-03-25,2022-09-30,,,,Vmware
+Tanzu Kubernetes Grid 1.4,Unsupported,2021-09-09,2023-01-31,,,,Vmware
+Tanzu Kubernetes Grid 1.5,Supported,2022-02-17,2023-04-30,,,,Vmware
+Tanzu Kubernetes Grid 1.5.0,Supported,2022-02-17,2023-04-30,,,,Vmware
+Tanzu Kubernetes Grid 1.6.0,Supported,2022-09-01,2023-09-30,,,,Vmware
+Tanzu Kubernetes Grid 2.1.0,Supported,2023-01-29,2024-01-31,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.10.0,Unsupported,2021-01-28,2022-01-31,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.11.0,Unsupported,2021-05-27,2022-05-31,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.12.0,Unsupported,2021-09-09,2022-09-30,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.13.0,Unsupported,2021-11-30,2023-02-28,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.14.0,Supported,2022-05-12,2023-05-31,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.15.0,Supported,2022-09-20,2023-09-30,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.16.0,Supported,2023-02-28,2024-02-29,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.8.0,Unsupported,2020-06-30,2021-05-31,,,,Vmware
+Tanzu Kubernetes Grid Integrated Edition 1.9.0,Unsupported,2020-09-29,2021-09-30,,,,Vmware
+Tanzu Operations Manager 3.0.0+LTS-T,Supported,2022-11-15,2023-11-30,,,,Vmware
+Tanzu Toolkit for Kubernetes 1.0.0,Unsupported,2020-07-28,2021-04-30,,,,Vmware
+Tanzu Toolkit for Kubernetes 1.1.0,Unsupported,2020-10-22,2021-10-31,,,,Vmware
+Tanzu Toolkit for Kubernetes 1.2.0,Unsupported,2021-04-06,2022-04-30,,,,Vmware
+Tanzu Toolkit for Kubernetes 1.3.0,Unsupported,2021-11-25,2022-11-30,,,,Vmware
+Telco Cloud Automation 1.x,Unsupported,2020-10-13,2022-10-13,,,,Vmware
+Telco Cloud Automation 2.1,Supported,2021-12-14,2024-07-21,,,,Vmware
+Telco Cloud Automation 2.2,Supported,2023-01-12,2025-01-12,,,,Vmware
+Telco Cloud Automation 2.x,Supported,2021-12-14,2023-12-14,,,,Vmware
+Telco Cloud Operations 1.x,Supported,2020-09-03,2025-05-28,,,,Vmware
+Telco Cloud Service Assurance 2.0,Supported,2022-06-02,2024-06-02,,,,Vmware
+ThinApp 2111,Supported,2021-11-30,2023-11-30,2024-11-30,,,Vmware
+ThinApp 2203,Supported,2022-04-05,2024-04-05,2025-04-05,,,Vmware
+ThinApp 2206,Supported,2022-07-19,2024-07-19,2025-07-19,,,Vmware
+ThinApp 2212,Supported,2023-01-12,2026-01-12,2027-01-12,,,Vmware
+ThinApp 4.0,Unsupported,2008-06-04,2013-12-31,,,,Vmware
+ThinApp 4.5,Unsupported,2010-03-17,2014-03-17,,,,Vmware
+ThinApp 4.6,Unsupported,2010-09-13,2014-12-31,,,,Vmware
+ThinApp 4.7.1 and 4.7.2,Unsupported,2011-11-15,2016-06-15,,,,Vmware
+ThinApp 4.7.3,Unsupported,2011-11-15,2019-10-31,,,,Vmware
+ThinApp 5.x,Supported,2013-10-26,2023-07-13,,,,Vmware
+Tools 10.0.x,Unsupported,2015-09-03,2020-03-12,2022-03-12,,,Vmware
+Tools 10.1.x,Supported,2016-10-25,2021-11-15,2023-11-15,,,Vmware
+Tools 10.2.x,Supported,2017-12-14,2022-12-14,2024-12-14,,,Vmware
+Tools 10.3.x,Supported,2018-07-12,2024-06-30,2026-06-30,,,Vmware
+Tools 11.0.x,Supported,2019-09-19,2024-09-19,2026-09-19,,,Vmware
+Tools 11.1.x,Supported,2020-05-07,2025-05-07,2027-05-07,,,Vmware
+Tools 11.2.x,Supported,2020-10-15,2025-10-15,2027-10-15,,,Vmware
+Tools 11.3.x,Supported,2021-06-17,2026-06-17,2028-06-17,,,Vmware
+Tools 12.0.x,Supported,2022-03-01,2027-03-01,2029-03-01,,,Vmware
+Tools 12.1.0,Supported,2022-08-23,2027-08-23,2029-08-23,,,Vmware
+Tools 12.2.0,Supported,2023-03-07,2028-03-07,2030-03-07,,,Vmware
+Tools 9.10.0,Unsupported,2015-03-12,2020-03-12,2022-03-12,,,Vmware
+TrustPoint 1.0,Unsupported,2016-06-16,2017-12-16,2018-12-16,,,Vmware
+User Environment Manager 8.6,Unsupported,2015-04-21,2017-04-21,2018-04-21,,,Vmware
+User Environment Manager 9.0,Unsupported,2016-03-17,2018-03-17,2019-03-17,,,Vmware
+User Environment Manager 9.1,Unsupported,2016-09-15,2018-09-15,2019-09-15,,,Vmware
+User Environment Manager 9.2,Unsupported,2017-05-16,2019-05-16,2020-05-16,,,Vmware
+User Environment Manager 9.3,Unsupported,2018-01-04,2020-01-04,2021-01-04,,,Vmware
+User Environment Manager 9.4,Unsupported,2018-05-29,2020-05-29,2021-05-29,,,Vmware
+User Environment Manager 9.5,Unsupported,2018-09-06,2020-09-06,2021-09-06,,,Vmware
+User Environment Manager 9.6,Unsupported,2018-12-13,2020-12-13,2021-12-13,,,Vmware
+User Environment Manager 9.7,Unsupported,2019-03-14,2021-03-14,2022-03-14,,,Vmware
+User Environment Manager 9.8,Unsupported,2019-07-02,2021-07-02,2022-07-02,,,Vmware
+View 2.x,Unsupported,2008-01-30,2010-06-02,,,,Vmware
+View 3.x,Unsupported,2008-12-02,2015-05-11,,,,Vmware
+View 4.x,Unsupported,2009-11-16,2014-11-16,2016-11-16,2013-09-30,,Vmware
+Workspace ONE Access 20.01,Unsupported,2020-01-30,2021-07-30,,,,Vmware
+Workspace ONE Access 20.10,Unsupported,2020-11-03,2022-05-02,,,,Vmware
+Workspace ONE Access 21.08,Supported,2021-09-07,2023-09-06,,,,Vmware
+Workspace ONE Access Connector 22.05,Supported,2022-06-09,2023-12-09,,,,Vmware
+Workspace ONE UEM Cloud 2210,Supported,2022-11-01,2024-05-01,,,,Vmware
+Workspace ONE UEM Cloud 2212,Supported,2023-01-11,2024-07-11,,,,Vmware
+Workspace ONE UEM Console 1810,Unsupported,2018-11-02,2020-05-02,,,,Vmware
+Workspace ONE UEM Console 1811,Unsupported,2018-12-17,2020-06-17,,,,Vmware
+Workspace ONE UEM Console 1902,Unsupported,2019-03-14,2020-09-14,,,,Vmware
+Workspace ONE UEM Console 1903,Unsupported,2019-04-22,2020-10-22,,,,Vmware
+Workspace ONE UEM Console 1904 (SaaS Only),Unsupported,2019-04-24,2020-10-24,,,,Vmware
+Workspace ONE UEM Console 1905 (SaaS Only),Unsupported,2019-05-30,2020-11-30,,,,Vmware
+Workspace ONE UEM Console 1907,Unsupported,2019-08-02,2021-02-02,,,,Vmware
+Workspace ONE UEM Console 1908 (SaaS Only),Unsupported,2019-08-20,2021-02-20,,,,Vmware
+Workspace ONE UEM Console 1909,Unsupported,2019-10-21,2021-04-21,,,,Vmware
+Workspace ONE UEM Console 1912 (SaaS Only),Unsupported,2019-12-10,2021-06-10,,,,Vmware
+Workspace ONE UEM Console 2001,Unsupported,2020-02-26,2021-08-26,,,,Vmware
+Workspace ONE UEM Console 2003  (SaaS Only),Unsupported,2020-03-06,2021-09-06,,,,Vmware
+Workspace ONE UEM Console 2004  (SaaS Only),Unsupported,2020-04-03,2021-10-03,,,,Vmware
+Workspace ONE UEM Console 2005,Unsupported,2020-06-10,2021-12-10,,,,Vmware
+Workspace ONE UEM Console 2006 (Saas Only),Unsupported,2020-06-17,2021-12-17,,,,Vmware
+Workspace ONE UEM Console 2007 (SaaS Only),Unsupported,2020-07-20,2022-01-20,,,,Vmware
+Workspace ONE UEM Console 2008,Unsupported,2020-09-15,2022-03-15,,,,Vmware
+Workspace ONE UEM Console 2010 (SaaS Only),Unsupported,2020-10-14,2022-04-14,,,,Vmware
+Workspace ONE UEM Console 2011,Unsupported,2021-01-15,2022-07-15,,,,Vmware
+Workspace ONE UEM Console 2101 (SaaS Only),Unsupported,2021-01-22,2022-07-22,,,,Vmware
+Workspace ONE UEM Console 2102,Unsupported,2021-04-14,2022-10-14,,,,Vmware
+Workspace ONE UEM Console 2105,Unsupported,2021-07-15,2023-01-15,,,,Vmware
+Workspace ONE UEM Console 2107 (SaaS Only),Unsupported,2021-08-12,2023-02-08,,,,Vmware
+Workspace ONE UEM Console 2109,Supported,2021-12-22,2023-06-22,,,,Vmware
+Workspace ONE UEM Console 2111,Supported,2022-01-13,2023-07-13,,,,Vmware
+Workspace ONE UEM Console 2203,Supported,2022-04-29,2023-10-29,,,,Vmware
+Workspace ONE UEM Console 2204,Supported,2022-05-23,2023-11-23,,,,Vmware
+Workspace ONE UEM Console 2206,Supported,2022-08-15,2024-02-15,,,,Vmware
+Workspace ONE UEM Console 2209,Supported,2022-11-02,2024-05-02,,,,Vmware
+Workspace ONE UEM Console 2212,Supported,2023-02-23,2024-08-23,,,,Vmware
+Workspace ONE UEM Console 9.4,Unsupported,2018-05-02,2019-11-02,,,,Vmware
+Workspace ONE UEM Console 9.5,Unsupported,2018-07-02,2020-01-02,,,,Vmware
+Workspace ONE UEM Console 9.6,Unsupported,2018-08-13,2020-02-13,,,,Vmware
+Workspace ONE UEM Console 9.7,Unsupported,2018-10-03,2020-04-03,,,,Vmware
+Workspace ONE® Access 22.09.0.0,Supported,2022-09-27,2023-11-01,,,,Vmware
+Workspace Portal 2.0,Unsupported,2014-06-19,2016-06-19,2017-06-19,,,Vmware
+Workspace Portal 2.1,Unsupported,2014-09-09,2017-09-09,2019-09-09,,,Vmware
+Workstation 10.x,Unsupported,2013-09-04,2015-09-04,,2014-12-02,,Vmware
+Workstation 11.x,Unsupported,2014-12-02,2016-06-02,,2015-08-25,,Vmware
+Workstation 12.x Pro and Workstation 12.x Player,Unsupported,2015-08-25,2018-02-25,,2017-09-26,,Vmware
+Workstation 14 Pro and Workstation 14 Player,Unsupported,2017-09-26,2019-03-26,,,,Vmware
+Workstation 15 Pro and Workstation 15 Player,Unsupported,2018-09-24,2020-12-19,,,,Vmware
+Workstation 16 Pro and Workstation 16 Player,Supported,2020-09-14,2023-03-31,,,,Vmware
+Workstation 17.0.0,Supported,2020-09-14,2024-02-17,,,,Vmware
+Workstation 5.x,Unsupported,2005-04-07,EOS Reached,,,,Vmware
+Workstation 6.x,Unsupported,2007-05-09,2011-10-01,,,,Vmware
+Workstation 7.x,Unsupported,2009-10-27,2011-10-31,,2011-09-14,,Vmware
+Workstation 8.x,Unsupported,2011-09-14,2013-09-14,,2012-08-23,,Vmware
+Workstation 9.x,Unsupported,2012-08-23,2014-08-23,,2013-09-04,,Vmware
+vCenter AppSpeed 1.0,Unsupported,2009-07-13,2011-07-13,,2012-01-03,,Vmware
+vCenter AppSpeed 1.5,Unsupported,2010-09-15,2013-07-03,,2012-01-03,,Vmware
+vCenter Application Discovery Manager 6.0,Unsupported,2009-06-22,2011-06-22,,2013-06-01,,Vmware
+vCenter Application Discovery Manager 6.1,Unsupported,2010-08-19,2011-06-22,,2013-06-01,,Vmware
+vCenter Application Discovery Manager 6.2,Unsupported,2011-05-26,2013-09-13,,2013-06-01,,Vmware
+vCenter Application Discovery Manager 7.0,Unsupported,2012-09-13,2017-03-08,,2013-06-01,,Vmware
+vCenter Application Discovery Manager 7.1,Unsupported,2015-08-13,2020-06-30,,2013-06-01,,Vmware
+vCenter Application Stack Manager 3.x,Unsupported,2009-04-01,2011-04-01,,2012-01-03,,Vmware
+vCenter Capacity IQ 1.0,Unsupported,2009-10-19,2011-10-19,,2012-01-24,,Vmware
+vCenter Capacity IQ 1.5,Unsupported,2010-12-01,2012-12-01,,2012-01-24,,Vmware
+vCenter Chargeback Manager 1.x,Unsupported,2009-07-13,2011-07-13,,2014-06-10,,Vmware
+vCenter Chargeback Manager 2.0.x,Unsupported,2011-11-30,2013-11-30,,2014-06-10,,Vmware
+vCenter Chargeback Manager 2.7.x,Unsupported,2014-10-07,2019-12-31,,,,Vmware
+vCenter Configuration Manager 5.4.0,Unsupported,2010-12-13,2012-12-13,,,,Vmware
+vCenter Configuration Manager 5.4.1,Unsupported,2011-11-01,2013-11-01,,,,Vmware
+vCenter Configuration Manager 5.5,Unsupported,2012-03-15,2014-03-15,,,,Vmware
+vCenter Configuration Manager 5.6,Unsupported,2012-11-29,2014-11-29,,,,Vmware
+vCenter Configuration Manager 5.7,Unsupported,2013-07-25,2015-07-25,,,,Vmware
+vCenter Configuration Manager 5.7.1,Unsupported,2013-12-10,2015-12-10,,,,Vmware
+vCenter Configuration Manager 5.7.2,Unsupported,2014-06-24,2016-06-24,,,,Vmware
+vCenter Converter Integrated 4.x,Unsupported,2009-05-21,2011-05-21,,,,Vmware
+vCenter Converter Standalone 3.x,Unsupported,2007-01-30,2010-08-12,,,,Vmware
+vCenter Converter Standalone 4.x,Unsupported,2009-02-12,2012-09-01,,,,Vmware
+vCenter Converter Standalone 5.0,Unsupported,2011-09-01,2013-09-01,,,,Vmware
+vCenter Converter Standalone 5.1,Unsupported,2013-04-25,2014-12-31,,,,Vmware
+vCenter Converter Standalone 5.5,Unsupported,2013-10-22,2015-10-22,,,,Vmware
+vCenter Converter Standalone 6.0,Unsupported,2015-05-14,2017-05-14,,,,Vmware
+vCenter Converter Standalone 6.1,Unsupported,2016-01-19,2017-05-14,,,,Vmware
+vCenter Converter Standalone 6.2,Unsupported,2017-12-14,2019-12-14,,,,Vmware
+vCenter Converter Standalone 6.3.0,Supported,2022-10-11,2024-04-11,,,,Vmware
+vCenter Lab Manager 2.x,Unsupported,2006-12-22,2010-02-04,,2012-06-01,,Vmware
+vCenter Lab Manager 3.x,Unsupported,2008-08-04,2011-01-13,,2012-06-01,,Vmware
+vCenter Lifecycle Manager 1.x,Unsupported,2008-03-31,2012-03-01,,2010-09-01,,Vmware
+vCenter Log Insight 1.0,Unsupported,2013-07-09,2015-07-09,,,,Vmware
+vCenter Log Insight 1.5,Unsupported,2014-01-10,2015-07-09,,,,Vmware
+vCenter Log Insight 2.0,Unsupported,2014-06-10,2016-06-10,,,,Vmware
+vCenter Operations 5.0,Unsupported,2012-01-24,2014-01-24,,,,Vmware
+vCenter Operations 5.6,Unsupported,2012-11-29,2014-01-24,,,,Vmware
+vCenter Operations 5.7,Unsupported,2013-04-04,2015-12-30,,,,Vmware
+vCenter Operations 5.8,Unsupported,2013-12-10,2015-12-30,,,,Vmware
+vCenter Operations 5.8.5 Foundation Only,Unsupported,2015-03-12,2016-12-31,,,,Vmware
+vCenter Operations Enterprise 1.0,Unsupported,2011-03-31,2013-03-31,,,,Vmware
+vCenter Operations Management Pack for Epic 1.0,Unsupported,2014-06-03,2016-06-03,,,,Vmware
+vCenter Operations Manager for View 1.6,Unsupported,2014-06-19,2015-12-09,,,,Vmware
+vCenter Operations Manager for View 1.7,Unsupported,2014-09-09,2015-12-09,,,,Vmware
+vCenter Operations Standard 1.0,Unsupported,2011-03-14,2013-03-14,,,,Vmware
+vCenter Server 4.x,Unsupported,2009-05-21,2014-05-21,2016-05-21,2013-08-15,,Vmware
+vCenter Server 5.0 and 5.1,Unsupported,2011-08-24,2016-08-24,2018-08-24,2017-12-08,,Vmware
+vCenter Server 5.5,Unsupported,2013-09-19,2018-09-19,2020-09-19,2017-12-08,,Vmware
+vCenter Server 6.0,Unsupported,2015-03-12,2020-03-12,2022-03-12,2020-05-15,,Vmware
+vCenter Server 6.5,Supported,2016-11-15,2022-10-15,2023-11-15,2020-05-15,,Vmware
+vCenter Server 6.7,Supported,2018-04-17,2022-10-15,2023-11-15,2020-05-15,,Vmware
+vCenter Server 7.0,Supported,2020-04-02,2025-04-02,2027-04-02,2022-10-11,,Vmware
+vCenter Server 8.0,Supported,2022-10-11,2027-10-11,2029-10-11,,,Vmware
+vCenter Server Heartbeat 5.5,Unsupported,2009-11-19,2011-03-10,,2014-06-02,,Vmware
+vCenter Server Heartbeat 6.0 and 6.5,Unsupported,2010-07-13,2015-07-13,2017-07-13,2014-06-02,,Vmware
+vCenter Server Heartbeat 6.6,Unsupported,2013-09-22,2018-09-19,2020-09-19,2014-06-02,,Vmware
+vCenter Site Recovery Manager 1.x,Unsupported,2008-06-19,2011-05-05,,,,Vmware
+vCenter Site Recovery Manager 4.0,Unsupported,2009-10-05,2011-10-21,,,,Vmware
+vCenter Site Recovery Manager 4.1,Unsupported,2010-07-13,2012-10-21,,,,Vmware
+vCenter Update Manager 5.0 and 5.1,Unsupported,2011-08-24,2016-08-24,2018-08-24,,,Vmware
+vCenter Update Manager 5.5,Unsupported,2013-09-19,2018-09-19,2020-09-19,,,Vmware
+vCenter Update Manager 6.0,Unsupported,2015-03-12,2020-03-12,2022-03-12,,,Vmware
+vCloud Application Director 6.0,Unsupported,2013-12-10,2016-09-15,,,,Vmware
+vCloud Automation Center 5.1,Unsupported,2012-12-13,2014-12-10,,,,Vmware
+vCloud Automation Center 5.2,Unsupported,2013-09-19,2016-12-15,,,,Vmware
+vCloud Automation Center 6.0,Unsupported,2013-12-10,2015-12-10,,,,Vmware
+vCloud Automation Center 6.1,Unsupported,2014-09-09,2015-12-10,,,,Vmware
+vCloud Availability 3.0,Unsupported,2019-04-11,2021-04-11,,,,Vmware
+vCloud Availability 3.5,Unsupported,2019-11-14,2021-11-14,,,,Vmware
+vCloud Availability for Cloud-to-Cloud DR 1.x,Unsupported,2018-05-17,2020-05-17,,2019-03-28,,Vmware
+vCloud Availability for vCloud Director 1.0,Unsupported,2016-07-28,2018-07-28,,,,Vmware
+vCloud Availability for vCloud Director 2.0,Unsupported,2017-10-19,2019-10-19,,2019-03-28,,Vmware
+vCloud Connector 1.0,Unsupported,2011-01-25,2012-11-16,,,,Vmware
+vCloud Connector 1.5,Unsupported,2011-11-15,2013-12-20,,,,Vmware
+vCloud Connector 2.0,Unsupported,2012-12-20,2014-12-20,,,,Vmware
+vCloud Connector 2.5,Unsupported,2013-06-11,2014-12-20,,,,Vmware
+vCloud Connector 2.6,Unsupported,2014-02-11,2014-12-20,,,,Vmware
+vCloud Connector 2.7,Unsupported,2014-11-13,2016-03-31,,,,Vmware
+vCloud Director 1.0,Unsupported,2010-08-31,2012-08-31,,,,Vmware
+vCloud Director 1.5,Unsupported,2011-08-31,2013-09-10,,,,Vmware
+vCloud Director 5.1,Unsupported,2012-09-10,2014-09-10,,2013-09-19,,Vmware
+vCloud Director 5.5,Unsupported,2013-09-19,2017-09-19,,2015-03-12,,Vmware
+vCloud Director Extender 1.0,Unsupported,2017-10-19,2019-10-19,,2019-03-28,,Vmware
+vCloud Director Extender 1.1,Unsupported,2018-04-19,2019-10-19,,2019-03-28,,Vmware
+vCloud Director Object Storage Extension 1.0,Unsupported,2019-07-18,2021-07-18,,,,Vmware
+vCloud Director Object Storage Extension 1.0.1,Unsupported,2019-10-24,2021-10-24,,,,Vmware
+vCloud Director for Service Providers 5.6,Unsupported,2014-10-07,2016-10-07,,,,Vmware
+vCloud Director for Service Providers 8.0,Unsupported,2015-09-10,2017-09-10,,,,Vmware
+vCloud Director for Service Providers 8.10,Unsupported,2016-05-26,2018-05-31,,,,Vmware
+vCloud Director for Service Providers 8.20,Unsupported,2017-02-21,2019-02-21,,,,Vmware
+vCloud Director for Service Providers 9.0,Unsupported,2017-09-28,2019-09-28,,,,Vmware
+vCloud Director for Service Providers 9.1,Unsupported,2018-03-08,2020-03-08,,,,Vmware
+vCloud Director for Service Providers 9.5,Unsupported,2018-10-04,2020-10-04,,,,Vmware
+vCloud Director for Service Providers 9.7,Unsupported,2019-03-28,2021-03-28,,,,Vmware
+vCloud Networking and Security 5.1,Unsupported,2012-09-10,2014-09-10,,2013-09-30,,Vmware
+vCloud Networking and Security 5.5,Unsupported,2013-09-19,2016-09-19,,2015-03-12,,Vmware
+vCloud Request Manager 1.0,Unsupported,2010-12-01,2013-07-03,,2012-01-03,,Vmware
+vCloud Usage Meter 3.5.0,Unsupported,2016-09-16,2019-03-31,,,,Vmware
+vCloud Usage Meter 3.6.0,Unsupported,2017-07-13,2018-07-13,,,,Vmware
+vCloud Usage Meter 3.6.1,Unsupported,2017-12-12,2021-07-31,,2020-11-05,,Vmware
+vCloud Usage Meter 4.1,Unsupported,2019-09-15,2020-09-15,,2020-08-13,,Vmware
+vCloud Usage Meter 4.2,Unsupported,2020-05-21,2021-05-30,,,,Vmware
+vCloud Usage Meter 4.3,Unsupported,2020-11-05,2021-11-05,2022-11-04,2021-07-30,,Vmware
+vCloud Usage Meter 4.4,Supported,2021-05-04,2022-05-04,2023-05-04,,,Vmware
+vCloud Usage Meter 4.5,Supported,2021-12-16,2022-12-16,2023-12-16,,,Vmware
+vCloud Usage Meter 4.6,Supported,2022-10-04,2023-10-03,2024-10-03,,,Vmware
+vFabric AppInsight 1.x,Unsupported,2011-11-01,2013-11-01,,,,Vmware
+vFabric AppInsight 5.0,Unsupported,2012-11-19,2014-11-19,,,,Vmware
+vFabric Application Director 1.0,Unsupported,2012-03-15,2014-03-15,,,,Vmware
+vFabric Application Director 5.0,Unsupported,2012-11-29,2014-11-29,,,,Vmware
+vFabric Application Director 5.2,Unsupported,2013-09-19,2016-03-15,,,,Vmware
+vFabric Data Director 1.0,Unsupported,2011-09-08,2014-09-08,2015-09-08,2017-12-01,,Vmware
+vFabric Data Director 2.0,Unsupported,2012-07-10,2015-07-10,2016-07-10,2017-12-01,,Vmware
+vFabric Data Director 2.5,Unsupported,2012-11-29,2015-07-10,2016-07-10,2017-12-01,,Vmware
+vFabric Data Director 2.7.0,Unsupported,2013-05-16,2017-12-01,,,,Vmware
+vFabric Enterprise Ready Server Version 4 - Tomcat version 5.5.x,Unsupported,2009-11-30,2012-06-30,2013-06-30,2013-07-01,,Vmware
+vFabric Enterprise Ready Server Version 4 - Tomcat version 6.0.x,Unsupported,2009-11-30,2014-07-01,2015-07-01,2013-07-01,,Vmware
+vFabric Enterprise Ready Server Version 4 - httpd version 1.3,Unsupported,2009-11-30,2012-11-30,2013-11-30,2013-07-01,,Vmware
+vFabric Gemfire 6.5 or prior,Unsupported,2010-10-12,2013-10-12,2014-10-12,,,Vmware
+vFabric Gemfire 6.6.x,Unsupported,2011-09-14,2014-09-14,2015-09-14,,,Vmware
+vFabric Gemfire 7.0.x,Unsupported,2012-10-25,2015-10-25,2016-10-25,,,Vmware
+vFabric Hyperic 4.5 and prior,Unsupported,2009-11-30,2012-11-30,2013-11-30,,,Vmware
+vFabric Hyperic 4.6,Unsupported,2011-09-14,2014-09-14,2015-09-14,,,Vmware
+vFabric Hyperic 5.0,Unsupported,2012-11-19,2015-11-19,2016-11-19,,,Vmware
+vFabric Hyperic 5.7.x,Unsupported,2013-09-03,2015-11-19,2016-11-19,,,Vmware
+vFabric Postgres 9.1,Unsupported,2012-05-22,2015-05-22,2016-05-22,2014-09-01,,Vmware
+vFabric Postgres 9.2,Unsupported,2013-02-07,2016-02-07,2017-02-07,2014-09-01,,Vmware
+vFabric Postgres 9.3,Unsupported,2013-11-19,2016-11-19,2017-11-19,2014-09-01,,Vmware
+vFabric RabbitMQ 2.4.1,Unsupported,2011-09-14,2014-09-14,2015-09-14,,,Vmware
+vFabric RabbitMQ 2.8.x,Unsupported,2012-05-16,2014-09-14,2015-09-14,,,Vmware
+vFabric RabbitMQ 3.0.x,Unsupported,2013-04-24,2015-10-25,2016-10-25,,,Vmware
+vFabric SQLFire 1.0,Unsupported,2011-12-13,2014-12-13,2015-12-13,2014-11-01,,Vmware
+vFabric SQLFire 1.1,Unsupported,2013-04-24,2016-01-15,2017-01-15,2014-11-01,,Vmware
+vFabric Suite 5.0,Unsupported,2011-09-14,2014-09-14,2015-09-14,2014-09-01,,Vmware
+vFabric Suite 5.1,Unsupported,2012-05-22,2014-09-14,2015-09-14,2014-09-01,,Vmware
+vFabric Suite 5.2,Unsupported,2012-10-16,2014-09-14,2015-09-14,2014-09-01,,Vmware
+vFabric Suite 5.3,Unsupported,2012-04-25,2016-01-15,2017-01-15,2014-09-01,,Vmware
+vFabric Web Server 5.0,Unsupported,2011-09-14,2014-09-14,2015-09-14,2015-03-01,,Vmware
+vFabric Web Server 5.1,Unsupported,2012-05-16,2014-09-14,2015-09-14,2015-03-01,,Vmware
+vFabric Web Server 5.2,Unsupported,2012-10-16,2014-09-14,2015-09-14,2015-03-01,,Vmware
+vFabric Web Server 5.3,Unsupported,2013-04-24,2014-10-24,2015-10-24,2015-03-01,,Vmware
+vFabric tc Server 2.0,Unsupported,2010-04-01,2013-04-01,2014-04-01,,,Vmware
+vFabric tc Server 2.1,Unsupported,2010-11-08,2013-11-08,2014-11-08,,,Vmware
+vFabric tc Server 2.5,Unsupported,2011-04-30,2014-04-30,2015-04-30,,,Vmware
+vFabric tc Server 2.6,Unsupported,2011-09-14,2014-09-14,2015-09-14,,,Vmware
+vFabric tc Server 2.7,Unsupported,2012-05-16,2014-09-14,2015-09-14,,,Vmware
+vFabric tc Server 2.8,Unsupported,2012-10-16,2014-09-14,2015-09-14,,,Vmware
+vFabric tc Server 2.9,Unsupported,2013-04-24,2016-12-31,2017-12-31,,,Vmware
+"vRealize Automation 6.2.1, 6.2.2, 6.2.3, 6.2.4",Unsupported,2014-12-09,2017-12-15,,,,Vmware
+vRealize Automation 7.0,Unsupported,2015-12-17,2018-12-17,,,,Vmware
+vRealize Automation 7.1,Unsupported,2016-08-23,2018-12-17,,,,Vmware
+vRealize Automation 7.2,Unsupported,2016-11-22,2018-12-17,,,,Vmware
+vRealize Automation 7.3,Unsupported,2017-05-25,2019-12-17,,,,Vmware
+"vRealize Automation 7.4, 7.5",Unsupported,2018-09-20,2020-12-17,,,,Vmware
+vRealize Automation 7.6,Unsupported,2019-04-11,2022-09-01,,,,Vmware
+vRealize Automation 8.0,Unsupported,2019-10-17,2021-10-17,,,,Vmware
+vRealize Automation 8.0.1,Unsupported,2019-12-19,2021-10-17,,,,Vmware
+vRealize Automation 8.1,Unsupported,2020-04-14,2021-10-17,,,,Vmware
+vRealize Automation 8.10,Supported,2022-10-11,2023-10-11,,,,Vmware
+vRealize Automation 8.10.1,Supported,2022-11-08,2023-11-08,,,,Vmware
+vRealize Automation 8.10.2,Supported,2022-12-06,2023-12-06,,,,Vmware
+vRealize Automation 8.11,Supported,2023-01-19,2024-01-19,,,,Vmware
+vRealize Automation 8.11.1,Supported,2023-02-21,2024-02-21,,,,Vmware
+vRealize Automation 8.2,Unsupported,2020-10-06,2022-10-31,,,,Vmware
+vRealize Automation 8.3,Unsupported,2021-02-04,2022-10-31,,,,Vmware
+vRealize Automation 8.4,Unsupported,2021-04-15,2022-10-31,,,,Vmware
+vRealize Automation 8.5,Unsupported,2021-08-19,2022-10-31,,,,Vmware
+vRealize Automation 8.6,Unsupported,2021-10-12,2022-10-31,,,,Vmware
+vRealize Automation 8.6.1,Unsupported,2021-11-19,2022-11-19,,,,Vmware
+vRealize Automation 8.6.2,Unsupported,2022-01-18,2023-01-18,,,,Vmware
+vRealize Automation 8.7,Supported,2022-03-22,2023-03-22,,,,Vmware
+vRealize Automation 8.8,Supported,2022-04-28,2023-04-28,,,,Vmware
+vRealize Automation 8.8.1,Supported,2022-06-09,2023-06-09,,,,Vmware
+vRealize Automation 8.8.2,Supported,2022-07-12,2023-07-12,,,,Vmware
+vRealize Automation 8.9,Supported,2022-08-09,2023-08-09,,,,Vmware
+vRealize Automation 8.9.1,Supported,2022-09-06,2023-09-06,,,,Vmware
+vRealize Automation SaltStack SecOps 8.3,Unsupported,2021-02-04,2022-02-04,,,,Vmware
+vRealize Business Advanced 8.2,Unsupported,2014-12-09,2016-12-31,,2016-03-01,,Vmware
+vRealize Business Enterprise 8.2,Unsupported,2014-12-09,2017-12-31,,2016-12-01,,Vmware
+vRealize Business Enterprise 8.3,Unsupported,2016-06-16,2017-12-31,,2016-12-01,,Vmware
+vRealize Business Enterprise 8.4,Unsupported,2016-08-30,2017-12-31,,2016-12-01,,Vmware
+vRealize Business Standard 6.0,Unsupported,2014-12-09,2016-12-17,,2016-03-01,,Vmware
+vRealize Business Standard 7.0,Unsupported,2015-12-17,2017-12-17,,,,Vmware
+vRealize Business for Cloud 7.0,Unsupported,2016-03-15,2018-03-15,,,,Vmware
+vRealize Business for Cloud 7.1,Unsupported,2016-08-23,2018-03-15,,,,Vmware
+vRealize Business for Cloud 7.2,Unsupported,2016-11-15,2018-03-15,,,,Vmware
+vRealize Business for Cloud 7.3,Unsupported,2017-06-13,2019-03-15,,,,Vmware
+vRealize Business for Cloud 7.4,Unsupported,2018-04-12,2019-04-12,,,,Vmware
+vRealize Business for Cloud 7.5,Unsupported,2018-09-20,2020-12-17,,,,Vmware
+vRealize Business for Cloud 7.6,Unsupported,2019-04-11,2022-09-01,,,,Vmware
+vRealize Code Stream 1.0,Unsupported,2014-12-09,2016-12-09,,,,Vmware
+vRealize Code Stream 2.0,Unsupported,2016-03-15,2018-03-15,,,,Vmware
+vRealize Code Stream 2.1,Unsupported,2016-08-23,2018-03-15,,,,Vmware
+vRealize Code Stream 2.2,Unsupported,2017-01-01,2018-06-30,,,,Vmware
+vRealize Code Stream 2.3,Unsupported,2017-05-16,2018-12-31,,,,Vmware
+vRealize Code Stream 2.4,Unsupported,2018-04-12,2021-02-28,,2020-10-31,,Vmware
+vRealize Configuration Manager 5.7.3,Unsupported,2014-12-09,2016-12-09,,,,Vmware
+vRealize Configuration Manager 5.8,Unsupported,2015-06-09,2021-01-31,,,,Vmware
+vRealize Configuration Manager 5.8.3,Unsupported,2016-12-01,2021-01-31,,,,Vmware
+vRealize Configuration Manager 5.8.x,Unsupported,2018-01-17,2021-01-30,,2020-01-02,,Vmware
+vRealize Hyperic 5.8.4 - 5.8.6,Unsupported,2014-12-09,2021-01-31,,,,Vmware
+vRealize Infrastructure Navigator 5.8.x,Unsupported,2013-12-10,2017-09-26,,2017-09-26,,Vmware
+vRealize Log Insight 2.5,Unsupported,2014-12-09,2016-09-10,,,,Vmware
+vRealize Log Insight 3.0,Unsupported,2015-09-10,2017-09-10,,,,Vmware
+vRealize Log Insight 3.3,Unsupported,2016-03-01,2017-09-10,,,,Vmware
+vRealize Log Insight 3.6,Unsupported,2016-08-11,2017-09-10,,,,Vmware
+vRealize Log Insight 4.0,Unsupported,2016-11-15,2018-11-15,,,,Vmware
+vRealize Log Insight 4.3,Unsupported,2017-03-02,2018-11-15,,,,Vmware
+vRealize Log Insight 4.5,Unsupported,2017-06-13,2018-11-15,,,,Vmware
+vRealize Log Insight 4.6,Unsupported,2018-04-12,2019-08-23,,,,Vmware
+vRealize Log Insight 4.7,Unsupported,2018-09-20,2020-04-11,,,,Vmware
+vRealize Log Insight 4.8,Unsupported,2019-04-08,2021-10-31,,,,Vmware
+vRealize Log Insight 8.0,Unsupported,2019-10-17,2021-10-17,,,,Vmware
+vRealize Log Insight 8.1,Unsupported,2020-04-14,2021-10-17,,,,Vmware
+vRealize Log Insight 8.10,Supported,2022-10-20,2024-04-28,,,,Vmware
+vRealize Log Insight 8.2,Unsupported,2020-10-06,2022-10-31,,,,Vmware
+vRealize Log Insight 8.3,Unsupported,2021-02-04,2022-10-31,,,,Vmware
+vRealize Log Insight 8.4,Unsupported,2021-04-15,2022-10-31,,,,Vmware
+vRealize Log Insight 8.6,Supported,2021-10-12,2023-10-31,,,,Vmware
+vRealize Log Insight 8.8,Supported,2022-04-28,2024-04-28,,,,Vmware
+"vRealize Network Insight 3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6",Unsupported,2016-08-01,2018-08-01,,,,Vmware
+vRealize Network Insight 3.7,Unsupported,2018-02-22,2019-02-22,,,,Vmware
+vRealize Network Insight 3.8,Unsupported,2018-06-19,2019-02-22,,,,Vmware
+vRealize Network Insight 3.9,Unsupported,2018-09-20,2019-12-20,,,,Vmware
+vRealize Network Insight 4.0,Unsupported,2018-12-20,2020-12-20,,,,Vmware
+vRealize Network Insight 4.1,Unsupported,2019-04-11,2020-12-20,,,,Vmware
+vRealize Network Insight 4.2,Unsupported,2019-07-18,2020-12-20,,,,Vmware
+vRealize Network Insight 5.0,Unsupported,2019-09-19,2021-10-31,,,,Vmware
+vRealize Network Insight 5.1,Unsupported,2020-01-14,2021-10-31,,,,Vmware
+vRealize Network Insight 5.2,Unsupported,2020-04-12,2021-10-31,,,,Vmware
+vRealize Network Insight 5.3,Unsupported,2020-07-14,2022-10-31,,,,Vmware
+vRealize Network Insight 6.0.0,Unsupported,2020-10-13,2022-10-13,,,,Vmware
+vRealize Network Insight 6.1.0,Unsupported,2021-01-14,2022-10-13,,,,Vmware
+vRealize Network Insight 6.2.0,Supported,2021-04-15,2023-10-13,,,,Vmware
+vRealize Network Insight 6.3.0,Supported,2021-07-13,2023-10-13,,,,Vmware
+vRealize Network Insight 6.4,Supported,2021-10-12,2023-10-13,,,,Vmware
+vRealize Network Insight 6.5.0,Supported,2022-01-13,2023-10-13,,,,Vmware
+vRealize Network Insight 6.5.1,Supported,2022-02-03,2023-10-13,,,,Vmware
+vRealize Network Insight 6.6.0,Supported,2022-04-12,2024-04-12,,,,Vmware
+vRealize Network Insight 6.7,Supported,2022-07-12,2024-07-12,,,,Vmware
+vRealize Network Insight 6.8.0,Supported,2022-10-27,2024-10-27,,2024-10-27,,Vmware
+vRealize Network Insight 6.9.0,Supported,2023-02-07,2025-02-07,,,,Vmware
+vRealize Operations 6.0,Unsupported,2014-12-09,2016-12-09,,,,Vmware
+vRealize Operations 6.1,Unsupported,2015-09-10,2016-12-09,,,,Vmware
+vRealize Operations 8.10,Supported,2022-10-11,2024-10-11,,,,Vmware
+vRealize Operations 8.2,Unsupported,2020-10-06,2022-10-31,,,,Vmware
+vRealize Operations 8.3,Unsupported,2021-02-04,2022-10-31,,,,Vmware
+vRealize Operations 8.4,Unsupported,2021-04-15,2022-10-31,,,,Vmware
+vRealize Operations 8.5,Unsupported,2021-07-13,2022-10-31,,,,Vmware
+vRealize Operations 8.6.x,Supported,2021-10-12,2023-10-31,,,,Vmware
+vRealize Operations Management Pack for MEDITECH 1.0,Unsupported,2015-09-16,2017-09-16,,,,Vmware
+vRealize Operations Management Pack for MEDITECH 3.0,Unsupported,2020-10-06,2022-10-06,,,,Vmware
+vRealize Operations Manager 6.2a,Unsupported,2016-02-10,2017-06-30,,,,Vmware
+vRealize Operations Manager 6.3,Unsupported,2016-08-23,2018-08-23,,,,Vmware
+vRealize Operations Manager 6.4,Unsupported,2016-11-15,2018-08-23,,,,Vmware
+vRealize Operations Manager 6.5,Unsupported,2017-03-02,2018-08-23,,,,Vmware
+vRealize Operations Manager 6.6,Unsupported,2017-06-13,2019-08-23,,,,Vmware
+vRealize Operations Manager 6.6.1,Unsupported,2017-08-08,2020-04-30,,,,Vmware
+vRealize Operations Manager 6.7,Unsupported,2018-04-12,2020-04-30,,,,Vmware
+vRealize Operations Manager 7.0,Unsupported,2018-09-20,2021-04-30,,,,Vmware
+vRealize Operations Manager 7.5,Unsupported,2019-04-11,2021-10-31,,,,Vmware
+vRealize Operations Manager 8.0,Unsupported,2019-10-17,2021-10-31,,,,Vmware
+vRealize Operations Manager 8.0.1,Unsupported,2019-12-19,2021-10-31,,,,Vmware
+vRealize Operations Manager 8.1,Unsupported,2020-04-14,2021-10-31,,,,Vmware
+vRealize Operations Manager 8.1.1,Unsupported,2020-07-09,2022-07-09,,,,Vmware
+vRealize Operations for Horizon 6.0,Unsupported,2014-12-09,2016-12-09,,,,Vmware
+vRealize Operations for Horizon 6.1,Unsupported,2015-06-15,2017-06-15,2018-06-15,,,Vmware
+vRealize Operations for Horizon 6.2,Unsupported,2015-12-08,2017-06-30,2018-06-30,,,Vmware
+vRealize Operations for Horizon 6.3,Unsupported,2016-06-16,2017-12-08,2018-12-08,,,Vmware
+vRealize Operations for Horizon 6.4,Unsupported,2016-12-08,2018-12-08,2019-12-08,,,Vmware
+vRealize Operations for Horizon 6.5,Unsupported,2017-09-21,2019-03-21,2020-03-21,,,Vmware
+vRealize Operations for Horizon 6.6,Unsupported,2018-09-20,2021-04-30,2022-03-20,,,Vmware
+vRealize Operations for Horizon 6.7,Supported,2019-10-17,2022-10-15,2023-03-23,,,Vmware
+vRealize Operations for Published Applications 6.1,Unsupported,2015-06-15,2018-06-30,,,,Vmware
+vRealize Operations for Published Applications 6.2,Unsupported,2015-12-08,2017-06-30,2018-06-30,,,Vmware
+vRealize Operations for Published Applications 6.3,Unsupported,2016-06-16,2017-12-08,2018-12-08,,,Vmware
+vRealize Operations for Published Applications 6.4,Unsupported,2016-12-08,2018-12-08,2019-12-08,,,Vmware
+vRealize Operations for Published Applications 6.5,Unsupported,2017-09-21,2019-03-21,2020-03-21,,,Vmware
+vRealize Orchestrator 7.0,Unsupported,2015-12-17,2018-12-17,,,,Vmware
+vRealize Orchestrator 7.1,Unsupported,2016-08-23,2018-12-17,,,,Vmware
+vRealize Orchestrator 7.2,Unsupported,2016-11-22,2018-12-17,,,,Vmware
+vRealize Orchestrator 7.3,Unsupported,2017-05-16,2019-12-17,,,,Vmware
+"vRealize Orchestrator 7.4, 7.5",Unsupported,2018-09-19,2020-12-17,,,,Vmware
+vRealize Orchestrator 7.6,Unsupported,2019-04-11,2023-01-31,,,,Vmware
+vRealize Orchestrator 8.0,Unsupported,2019-10-17,2021-10-17,,,,Vmware
+vRealize Orchestrator 8.1,Unsupported,2020-04-14,2021-10-17,,,,Vmware
+vRealize Orchestrator 8.10,Supported,2022-10-11,2023-10-11,,,,Vmware
+vRealize Orchestrator 8.10.1,Supported,2022-11-08,2023-11-08,,,,Vmware
+vRealize Orchestrator 8.10.2,Supported,2022-12-06,2023-12-06,,,,Vmware
+vRealize Orchestrator 8.11,Supported,2023-01-19,2024-01-19,,,,Vmware
+vRealize Orchestrator 8.11.1,Supported,2023-02-21,2024-02-21,,,,Vmware
+vRealize Orchestrator 8.2,Unsupported,2020-10-06,2022-10-31,,,,Vmware
+vRealize Orchestrator 8.3,Unsupported,2021-02-04,2022-10-31,,,,Vmware
+vRealize Orchestrator 8.4,Unsupported,2021-04-15,2022-10-31,,,,Vmware
+vRealize Orchestrator 8.5,Unsupported,2021-08-19,2022-10-31,,,,Vmware
+vRealize Orchestrator 8.6,Unsupported,2021-10-12,2022-10-31,,,,Vmware
+vRealize Orchestrator 8.6.2,Unsupported,2022-01-18,2023-01-18,,,,Vmware
+vRealize Orchestrator 8.7,Supported,2022-03-22,2023-03-22,,,,Vmware
+vRealize Orchestrator 8.8,Supported,2022-04-28,2023-04-28,,,,Vmware
+vRealize Orchestrator 8.8.1,Supported,2022-06-09,2023-06-09,,,,Vmware
+vRealize Orchestrator 8.8.2,Supported,2022-07-12,2023-07-12,,,,Vmware
+vRealize Orchestrator 8.9,Supported,2022-08-09,2023-08-09,,,,Vmware
+vRealize Orchestrator 8.9.1,Supported,2022-08-30,2023-09-06,,,,Vmware
+vRealize Orchestrator Plugin 1.5 for Horizon,Unsupported,2019-03-05,2021-03-05,2022-03-05,,,Vmware
+vRealize Suite Lifecycle Manager 1.0,Unsupported,2017-09-19,2019-09-19,,,,Vmware
+vRealize Suite Lifecycle Manager 1.1,Unsupported,2017-12-12,2019-09-19,,,,Vmware
+vRealize Suite Lifecycle Manager 1.2,Unsupported,2018-04-12,2019-09-19,,,,Vmware
+vRealize Suite Lifecycle Manager 1.3,Unsupported,2018-07-10,2020-12-17,,,,Vmware
+vRealize Suite Lifecycle Manager 2.0,Unsupported,2018-09-20,2020-09-20,,,,Vmware
+vRealize Suite Lifecycle Manager 2.1,Unsupported,2019-04-11,2021-10-31,,,,Vmware
+vRealize Suite Lifecycle Manager 8.0,Unsupported,2019-10-17,2021-10-17,,,,Vmware
+vRealize Suite Lifecycle Manager 8.1,Unsupported,2020-04-14,2021-10-17,,,,Vmware
+vRealize Suite Lifecycle Manager 8.10,Supported,2022-10-11,2023-10-11,,,,Vmware
+vRealize Suite Lifecycle Manager 8.2,Unsupported,2020-10-06,2022-10-31,,,,Vmware
+vRealize Suite Lifecycle Manager 8.3,Unsupported,2021-02-04,2022-10-31,,,,Vmware
+vRealize Suite Lifecycle Manager 8.4,Unsupported,2021-04-15,2022-10-31,,,,Vmware
+vRealize Suite Lifecycle Manager 8.4.1,Unsupported,2021-05-27,2022-10-31,,,,Vmware
+vRealize Suite Lifecycle Manager 8.6,Unsupported,2021-10-12,2022-10-31,,,,Vmware
+vRealize Suite Lifecycle Manager 8.7,Supported,2022-03-22,2023-03-22,,,,Vmware
+vRealize Suite Lifecycle Manager 8.8,Supported,2022-04-28,2023-04-28,,,,Vmware
+vRealize True Visibility Suite 1.0.0,Supported,2020-10-06,2023-11-11,,,,Vmware
+vSAN 5.5,Unsupported,2014-03-11,2018-09-19,2020-09-19,,,Vmware
+"vSAN 6.0, 6.1 and 6.2",Unsupported,2015-03-12,2020-03-12,2022-03-12,,,Vmware
+"vSAN 6.5, 6.6",Supported,2016-11-15,2022-10-15,2023-11-15,,,Vmware
+vSAN 6.7,Supported,2018-04-17,2022-10-15,2023-11-15,,,Vmware
+vSAN 7.0,Supported,2020-04-02,2025-04-02,2027-04-02,,,Vmware
+vSAN™ 6.7,Supported,2018-04-17,2022-10-15,2023-11-15,,,Vmware
+vSAN™ 6.7 U2,Supported,2019-04-11,2022-10-15,2023-11-15,,,Vmware
+vSAN™ 6.7U1,Supported,2018-10-16,2022-10-15,2023-11-15,,,Vmware
+vSAN™ 8.0,Supported,2022-10-11,2027-10-11,2029-10-11,,,Vmware
+vShield App 1.0,Unsupported,2010-08-31,2012-09-01,,,,Vmware
+vShield App 5.0,Unsupported,2011-09-01,2013-09-01,,,,Vmware
+vShield Edge 1.0,Unsupported,2010-08-31,2012-09-01,,,,Vmware
+vShield Edge 5.0,Unsupported,2011-09-01,2013-09-01,,,,Vmware
+vShield Endpoint 1.0,Unsupported,2010-08-31,2012-09-01,,,,Vmware
+vShield Endpoint 5.0,Unsupported,2011-09-01,2013-09-01,,,,Vmware
+vShield Endpoint 5.1,Unsupported,2012-09-10,2014-09-10,,,,Vmware
+vShield Zones 1.0,Unsupported,2009-05-21,2011-05-21,,,,Vmware
+vShield Zones 4.1,Unsupported,2010-08-30,2013-08-30,,,,Vmware
+vSphere 6.7 U2,Supported,2019-04-11,2022-10-15,2023-11-15,,,Vmware
+vSphere Big Data Extensions 1.0,Unsupported,2013-09-19,2015-09-19,,,,Vmware
+vSphere Big Data Extensions 2.0,Unsupported,2014-06-12,2016-06-12,,,,Vmware
+vSphere Big Data Extensions 2.1,Unsupported,2014-10-14,2016-06-12,,,,Vmware
+vSphere Big Data Extensions 2.2,Unsupported,2015-06-04,2016-06-12,,,,Vmware
+vSphere Big Data Extensions 2.3,Unsupported,2015-12-08,2018-12-08,,,,Vmware
+vSphere Data Protection 5.1,Unsupported,2012-09-10,2016-08-24,2018-08-24,,,Vmware
+vSphere Data Protection 5.5 and 5.8,Unsupported,2013-09-19,2018-09-19,2020-09-19,,,Vmware
+vSphere Data Protection 6.0,Unsupported,2015-03-12,2020-03-12,2022-03-12,,,Vmware
+vSphere Data Protection 6.1,Unsupported,2015-09-10,2020-03-12,2022-03-12,,,Vmware
+vSphere Data Protection Advanced 5.1,Unsupported,2013-03-14,2016-08-24,2018-08-24,2015-03-01,,Vmware
+vSphere Data Protection Advanced 5.5 and 5.8,Unsupported,2013-11-14,2018-11-14,2020-11-14,2015-03-01,,Vmware
+"vSphere Integrated Containers 1.0, 1.1, 1.2 and 1.3",Unsupported,2016-12-08,2018-12-08,,,,Vmware
+vSphere Integrated Containers 1.4,Unsupported,2018-05-15,2019-05-15,,,,Vmware
+vSphere Integrated Containers 1.5,Unsupported,2019-01-17,2020-01-17,,,,Vmware
+vSphere Integrated Containers 1.5.4,Unsupported,2019-09-23,2021-08-31,,,,Vmware
+vSphere Integrated Containers 1.5.5,Unsupported,2020-04-16,2021-08-31,,,,Vmware
+vSphere Replication 5.1,Unsupported,2012-09-10,2016-08-24,2018-08-24,,,Vmware
+vSphere Replication 5.5,Unsupported,2013-09-22,2018-09-22,2020-09-22,,,Vmware
+vSphere Replication 5.6,Unsupported,2014-04-14,2018-09-22,2020-09-22,,,Vmware
+vSphere Replication 5.8,Unsupported,2014-09-09,2018-09-22,2020-09-22,,,Vmware
+vSphere Replication 6.0,Unsupported,2015-03-12,2020-03-12,2022-03-12,,,Vmware
+vSphere Replication 6.1,Unsupported,2015-09-10,2020-03-12,2022-03-12,,,Vmware
+vSphere Replication 6.5,Supported,2016-11-15,2021-11-15,2023-11-15,,,Vmware
+vSphere Replication 8.1,Supported,2018-04-17,2021-11-15,2023-11-15,,,Vmware
+vSphere Replication 8.2,Supported,2019-05-09,2021-11-15,2023-11-15,,,Vmware
+vSphere Replication 8.3,Supported,2020-04-02,2023-04-01,2024-04-01,,,Vmware
+vSphere Replication 8.4,Supported,2021-03-09,2023-04-01,2024-04-01,,,Vmware
+vSphere Replication 8.5,Supported,2021-10-05,2023-10-01,2024-10-01,,,Vmware
+vSphere Replication 8.6,Supported,2022-10-11,2025-10-11,2026-10-11,,,Vmware
+vSphere Storage Appliance 1.0,Unsupported,2011-08-24,2013-08-24,,2014-04-01,,Vmware
+vSphere Storage Appliance 5.1,Unsupported,2012-09-10,2014-09-10,,2014-04-01,,Vmware
+vSphere Storage Appliance 5.5,Unsupported,2013-09-19,2018-09-19,2020-09-19,2014-04-01,,Vmware
+Cisco Catalyst 2960 Series Switches,,,31/10/2019,,,switches,Cisco
+Cisco Blade Switches for HP,,,31/07/2020,,,switches,Cisco
+Cisco Switch Modules for IBM,,,31/07/2020,,,switches,Cisco
+Cisco Catalyst 2960-S Series Switches,,,30/11/2020,,,switches,Cisco
+Citrix NetScaler 1000V,,,30/05/2021,,,switches,Cisco
+Cisco Catalyst 3750 Series Switches,,,31/05/2021,,,switches,Cisco
+Cisco Catalyst 3560 Series Switches,,,31/05/2021,,,switches,Cisco
+Cisco Catalyst 3560-C Series Switches,,,21/10/2021,,,switches,Cisco
+Cisco Catalyst 3560-X Series Switches,,,31/10/2021,,,switches,Cisco
+Cisco Catalyst 3750-X Series Switches,,,31/10/2021,,,switches,Cisco
+Cisco Catalyst 2960-SF Series Switches,,,06/11/2021,,,switches,Cisco
+Cisco Nexus 1100 Series Cloud Services Platforms,,,30/11/2021,,,switches,Cisco
+Cisco Nexus 6000 Series Switches,,,30/04/2022,,,switches,Cisco
+Cisco ME 3600X Series Ethernet Access Switches,,,31/10/2022,,,switches,Cisco
+Cisco ME 3800X Series Carrier Ethernet Switch Routers,,,31/10/2022,,,switches,Cisco
+Cisco ME 4600 Series Multiservice Optical Access Platform,,,28/02/2023,,,switches,Cisco
+Cisco Small Business 500 Series Stackable Managed Switches,,,30/04/2023,,,switches,Cisco
+Cisco ME 3400E Series Ethernet Access Switches,,,31/10/2023,,,switches,Cisco
+Cisco Small Business 200 Series Smart Switches,,,31/10/2023,,,switches,Cisco
+Cisco Small Business 300 Series Managed Switches,,,31/10/2023,,,switches,Cisco
+Cisco Nexus 1000V Switch for Microsoft Hyper-V,,,11/12/2023,,,switches,Cisco
+Cisco Nexus 1000V Switch for KVM,,,11/12/2023,,,switches,Cisco
+Cisco Cloud Services Platform 2100,,,31/01/2024,,,switches,Cisco
+Cisco Nexus 1000V Switch for VMware vSphere,,,31/07/2024,,,switches,Cisco
+Cisco Industrial Ethernet 3000 Series Switches,,,30/06/2025,,,switches,Cisco
+Cisco Virtual Security Gateway,,,30/09/2025,,,switches,Cisco
+Cisco Nexus 1000VE,,,30/09/2025,,,switches,Cisco
+Cisco Catalyst 4500-X Series Switches,,,31/10/2025,,,switches,Cisco
+Cisco Catalyst 6500 Series Switches,,,31/10/2025,,,switches,Cisco
+Cisco Catalyst 4500 Series Switches,,,31/10/2025,,,switches,Cisco
+Cisco ME 1200 Series Carrier Ethernet Access Devices,,,31/03/2026,,,switches,Cisco
+Cisco Catalyst 2960-Plus Series Switches,,,31/10/2026,,,switches,Cisco
+Cisco Catalyst 2960-L Series Switches,,,31/10/2026,,,switches,Cisco
+Cisco 2500 Series Connected Grid Switches,,,31/01/2027,,,switches,Cisco
+Cisco Catalyst 6800 Series Switches,,,30/04/2027,,,switches,Cisco
+Cisco Catalyst 3850 Series Switches,,,30/04/2027,,,switches,Cisco
+Cisco 220 Series Smart Switches,,,31/07/2027,,,switches,Cisco
+Cisco 350X Series Stackable Managed Switches,,,31/07/2027,,,switches,Cisco
+Cisco 250 Series Smart Switches,,,31/07/2027,,,switches,Cisco
+Cisco 550X Series Stackable Managed Switches,,,31/07/2027,,,switches,Cisco
+Cisco Embedded Services 2020 Series Switches,,,31/07/2027,,,switches,Cisco
+Cisco Catalyst 2960-XR Series Switches,,,31/10/2027,,,switches,Cisco
+Cisco Catalyst 2960-X Series Switches,,,31/10/2027,,,switches,Cisco
+Cisco Small Business 95 Series Unmanaged Switches,,,31/01/2028,,,switches,Cisco
+Cisco Small Business 110 Series Unmanaged Switches,,,31/01/2028,,,switches,Cisco
+Cisco 350 Series Managed Switches,,,31/01/2028,,,switches,Cisco
+Cisco IPS 4200 Series Sensors,,,30/04/2020,,,security,Cisco
+Cisco Secure Access Control System,,,31/08/2022,,,security,Cisco
+Cisco SSL Appliances,,,31/08/2022,,,security,Cisco
+Cisco FirePOWER 8000 Series Appliances,,,10/06/2024,,,security,Cisco
+Cisco FirePOWER 7000 Series Appliances,,,10/06/2024,,,security,Cisco
+Cisco 7200 Series Routers,,,29/09/2017,,,routers,Cisco
+Cisco 7300 Series Routers,,,30/09/2017,,,routers,Cisco
+Cisco XR 12000 Series Router,,,30/06/2020,,,routers,Cisco
+Cisco 12000 Series Routers,,,30/06/2020,,,routers,Cisco
+Cisco 900 Series Industrial Routers,,,28/02/2022,,,routers,Cisco
+Cisco ASR 901S Series Aggregation Services Routers,,,31/03/2022,,,routers,Cisco
+Cisco 3900 Series Integrated Services Routers,,,31/12/2022,,,routers,Cisco
+Cisco 2900 Series Integrated Services Routers,,,31/12/2022,,,routers,Cisco
+Cisco 1900 Series Integrated Services Routers,,,31/05/2025,,,routers,Cisco
+Cisco ASR 901 Series Aggregation Services Routers,,,30/06/2025,,,routers,Cisco
+Cisco Small Business RV Series Routers,,,31/10/2026,,,routers,Cisco
+Cisco Integrated Services Virtual Router,,,31/12/2027,,,routers,Cisco
+Cisco 5900 Series Embedded Services Routers,,,29/02/2028,,,routers,Cisco
+Cisco 800 Series Industrial Integrated Services Routers,,,29/02/2028,,,routers,Cisco
+Cisco Aironet 3500 Series,,,31/03/2021,,,wireless,Cisco
+Cisco Universal Small Cell 9000 Series,,,31/05/2021,,,wireless,Cisco
+Cisco Aironet 2600 Series,,,31/12/2021,,,wireless,Cisco
+Cisco Aironet 3600 Series,,,31/12/2021,,,wireless,Cisco
+Cisco Aironet 1600 Series,,,31/12/2021,,,wireless,Cisco
+Cisco Context-Aware Software,,,31/01/2022,,,wireless,Cisco
+Cisco Flex 7500 Series Wireless Controllers,,,30/04/2022,,,wireless,Cisco
+Cisco 5700 Series Wireless LAN Controllers,,,30/04/2022,,,wireless,Cisco
+Cisco Universal Small Cell 7000 Series,,,31/07/2022,,,wireless,Cisco
+Cisco Universal Small Cell 8000 Series,,,31/07/2022,,,wireless,Cisco
+Cisco Universal Small Cell 3000 Series,,,31/07/2022,,,wireless,Cisco
+Cisco Access Policy Server,,,30/04/2023,,,wireless,Cisco
+Cisco 2500 Series Wireless Controllers,,,30/04/2023,,,wireless,Cisco
+Cisco Policy Suite for Wi-Fi,,,31/08/2023,,,wireless,Cisco
+Cisco Policy Suite for BNG,,,31/08/2023,,,wireless,Cisco
+Cisco Aironet 1530 Series,,,30/04/2024,,,wireless,Cisco
+Cisco Aironet 3700 Series Access Points,,,30/04/2024,,,wireless,Cisco
+Cisco Aironet 2700 Series Access Points,,,30/04/2024,,,wireless,Cisco
+Cisco Aironet 1700 Series Access Points,,,30/04/2024,,,wireless,Cisco
+Cisco Aironet 1810 Series OfficeExtend Access Points,,,31/10/2024,,,wireless,Cisco
+Cisco Aironet 1810w Series Access Points,,,31/10/2024,,,wireless,Cisco
+Cisco Aironet 1550 Series,,,31/12/2024,,,wireless,Cisco
+Cisco Aironet 1570 Series,,,30/11/2025,,,wireless,Cisco
+Cisco Catalyst 9117AX Series Access Points,,,30/04/2026,,,wireless,Cisco
+Cisco 8500 Series Wireless Controllers,,,31/01/2027,,,wireless,Cisco
+Cisco 5500 Series Wireless Controllers,,,31/01/2027,,,wireless,Cisco
+Cisco Virtual Wireless Controller,,,31/01/2027,,,wireless,Cisco
+Cisco 3500 Series Wireless Controllers,,,31/01/2027,,,wireless,Cisco
+Cisco Aironet 1800 Access Points,,,30/04/2027,,,wireless,Cisco
+Cisco Aironet 1840 Series Access Points,,,30/04/2027,,,wireless,Cisco
+Cisco Aironet 1815 Series Access Points,,,30/04/2027,,,wireless,Cisco
+Cisco Aironet 1850 Series Access Points,,,30/04/2027,,,wireless,Cisco
+Cisco Aironet 1540 Series,,,30/04/2027,,,wireless,Cisco
+Cisco Aironet 1830 Series Access Points,,,30/04/2027,,,wireless,Cisco
+Cisco Aironet 3800 Series Access Points,,,31/10/2027,,,wireless,Cisco
+Cisco Aironet 2800 Series Access Points,,,31/10/2027,,,wireless,Cisco
+Cisco Aironet 4800 Access Points,,,31/10/2027,,,wireless,Cisco
+Cisco Aironet 1560 Series,,,31/01/2028,,,wireless,Cisco
+Cisco TelePresence Serial Gateway Series,,,31/05/2022,,,unified communications,Cisco
+Cisco TelePresence ISDN Gateway,,,31/05/2022,,,unified communications,Cisco
+Cisco Business Edition 4000,,,31/05/2023,,,unified communications,Cisco
+Cisco Unity Express,,,31/10/2023,,,unified communications,Cisco
+Cisco TelePresence Video Communication Server (VCS),,,31/12/2023,,,unified communications,Cisco
+Cisco Unified SIP Proxy,,,30/09/2025,,,unified communications,Cisco
+Cisco Unified IP Phone 8900 Series,,,31/03/2021,,,collaboration endpoints,Cisco
+Cisco Unified IP Phone 9900 and 8900 Series Accessories,,,31/07/2021,,,collaboration endpoints,Cisco
+Cisco Unified IP Phones 9900 Series,,,31/07/2021,,,collaboration endpoints,Cisco
+Cisco IP Communicator,,,30/09/2021,,,collaboration endpoints,Cisco
+Cisco TelePresence System EX Series,,,31/08/2022,,,collaboration endpoints,Cisco
+Cisco TelePresence MX Series,,,31/03/2024,,,collaboration endpoints,Cisco
+Cisco TelePresence IX5000 Series,,,31/10/2024,,,collaboration endpoints,Cisco
+Cisco TelePresence SX Series,,,31/01/2025,,,collaboration endpoints,Cisco
+Cisco Webex Share,,,31/10/2026,,,collaboration endpoints,Cisco
+Cisco Prime Fulfillment Multivendor Service Orchestration,,,31/03/2021,,,cloud system management,Cisco
+Cisco NetFlow Generation 3000 Series Appliances,,,30/11/2021,,,cloud system management,Cisco
+Cisco Prime Optical,,,31/01/2022,,,cloud system management,Cisco
+Cisco Prime Home,,,28/02/2022,,,cloud system management,Cisco
+Cisco Nexus Fabric Manager,,,30/06/2023,,,cloud system management,Cisco
+Cisco Kinetic,,,31/01/2024,,,cloud system management,Cisco
+Cisco Application Policy Infrastructure Controller Enterprise Module,,,29/02/2024,,,cloud system management,Cisco
+Cisco Kinetic for Cities,,,30/04/2024,,,cloud system management,Cisco
+Cisco CloudCenter,,,31/05/2024,,,cloud system management,Cisco
+Cisco NAM 2000 Series Appliances,,,30/06/2024,,,cloud system management,Cisco
+Cisco CloudCenter Suite,,,31/10/2024,,,cloud system management,Cisco
+Cisco Prime Network Services Controller,,,30/09/2025,,,cloud system management,Cisco
+Cisco TelePresence MCU MSE Series,,,31/05/2022,,,conferencing,Cisco
+Cisco TelePresence MCU 5300 Series,,,31/05/2022,,,conferencing,Cisco
+Cisco TelePresence Content Server,,,31/05/2022,,,conferencing,Cisco
+Cisco TelePresence MSE 8000 Series,,,31/05/2022,,,conferencing,Cisco
+Cisco Webex Meetings Server,,,31/07/2023,,,conferencing,Cisco
+Cisco Physical Access Manager,,,31/05/2019,,,connected-safety-security,Cisco
+Cisco Video Analytics,,,30/04/2021,,,connected-safety-security,Cisco
+Cisco Physical Access Gateways,,,31/05/2021,,,connected-safety-security,Cisco
+Cisco Video Surveillance Storage System,,,31/05/2021,,,connected-safety-security,Cisco
+Cisco Video Surveillance Encoders,,,31/07/2021,,,connected-safety-security,Cisco
+Cisco Video Surveillance PTZ IP Cameras,,,31/08/2022,,,connected-safety-security,Cisco
+Cisco Video Surveillance 6000 Series IP Cameras,,,31/01/2023,,,connected-safety-security,Cisco
+Cisco Video Surveillance Manager,,,24/07/2023,,,connected-safety-security,Cisco
+Virtualized Applications for UCS,,,31/07/2023,,,connected-safety-security,Cisco
+Cisco Video Surveillance Virtual Matrix Software,,,31/07/2023,,,connected-safety-security,Cisco
+Cisco IP Camera Applications and Utilities,,,31/07/2023,,,connected-safety-security,Cisco
+Cisco Video Surveillance Operations Manager Software,,,31/07/2023,,,connected-safety-security,Cisco
+Cisco Video Surveillance 7000 Series IP Cameras,,,31/10/2023,,,connected-safety-security,Cisco
+Cisco Video Surveillance 3000 Series IP Cameras,,,30/04/2025,,,connected-safety-security,Cisco
+Cisco Video Surveillance 8000 Series IP Cameras,,,31/07/2025,,,connected-safety-security,Cisco
+Cisco Carrier Packet Transport (CPT) System,,,30/06/2023,,,optical networking,Cisco
